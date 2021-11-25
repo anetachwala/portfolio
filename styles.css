@@ -140,6 +140,10 @@ nav {
     color: #4A306D;
 }
 
+.hello-section__h1 a { 
+    color: #0FA3B1;
+}
+
 .hello-section__h1 span{
     font-size: 50px;   
     color: #0FA3B1;
