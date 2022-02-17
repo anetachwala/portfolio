@@ -131,7 +131,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 102px;
+    padding-top: 100px;
 }
 
 .hello-section__h1 {
@@ -174,7 +174,8 @@ nav {
     text-align: right;
 }
 .hello-section__img img {
-    width: 450px;
+    width: 100%;
+    max-width: 400px;
 }
 
 @media screen and (max-width: 768px) {
